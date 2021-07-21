@@ -1,0 +1,17 @@
+{
+  "name": "jest-start",
+  "version": "1.0.0",
+  "description": "My first Jest project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sergey Amelkin",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  }
+}
